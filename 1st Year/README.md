@@ -3,7 +3,7 @@
 - Fundamentals of Programming 
 
 📌 Semester 2 
-- Object-Oriented Programming (C++)
+- Object-Oriented Programming
 - Data Structures and Algorithms
 - Graphs
 

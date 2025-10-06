@@ -1,8 +1,8 @@
-Test Statement: Order and Chaos Game
-Objective
+##Test Statement: Order and Chaos Game
+#Objective
 Implement a console-based version of the "Order and Chaos" game where a human player competes against the computer on a 6x6 board.
 
-Game Rules
+#Game Rules
 Board: 6x6 grid
 
 Players: Human vs Computer
@@ -19,7 +19,7 @@ Human wins (Order): Creates a complete row, column, or diagonal containing only 
 
 Computer wins (Chaos): Fills the entire board without the human achieving a complete line
 
-Requirements
+#Requirements
 1. Board Implementation
 Create a Board class representing the 6x6 game grid
 
@@ -38,7 +38,7 @@ Display the board using the texttable library
 2. Game Logic
 Create a Game class to manage game flow
 
-Implement:
+#Implement:
 
 Human move validation (check boundaries and availability)
 
@@ -70,7 +70,7 @@ Separate concerns between domain, game logic, and UI layers
 
 Handle invalid user input gracefully
 
-Game Flow
+#Game Flow
 Player chooses symbol (X or O)
 
 Board is displayed

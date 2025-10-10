@@ -7,5 +7,5 @@ In the second semester, I transitioned to C++ to build on my OOP knowledge and g
   - Linked lists
   - Stacks and queues
   - Trees and graphs (introductory)
-  - Implementing and analyzing basic algorithms for sorting, searching, and traversal
-  - GUI application development using the Qt framework
+- Implementing and analyzing basic algorithms for sorting, searching, and traversal
+- GUI application development using the Qt framework

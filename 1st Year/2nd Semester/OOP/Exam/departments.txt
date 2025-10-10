@@ -1,0 +1,3 @@
+Shelter|take care of animals in shelter
+Hospital|help people in hospital
+Garden|help mama plant the corn

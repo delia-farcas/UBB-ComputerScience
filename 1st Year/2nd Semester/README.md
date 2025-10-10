@@ -1,4 +1,4 @@
-## Second Semester - OOP(C++), DSA, GRAPHS
+## Second Semester - OOP(C++), DSA, Graphs(Python)
 In the second semester, I transitioned to C++ to build on my OOP knowledge and go deeper into systems-level programming concepts. Topics covered:
 - Advanced OOP principles: inheritance, polymorphism, encapsulation
 - Operator overloading and abstract classes

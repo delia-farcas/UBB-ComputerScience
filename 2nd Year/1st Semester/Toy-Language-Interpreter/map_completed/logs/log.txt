@@ -1,0 +1,902 @@
+Id: 1
+ExeStack:
+[int v; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[int v ; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[int v ; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[RefType a ; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[RefType a ; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[v = 10 ; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[v = 10 ; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[new(a, 22) ; fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[new(a, 22) ; fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))) ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))) ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[wH(a, 30); v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[wH(a, 30); v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[wH(a, 30) ; v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[wH(a, 30) ; v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 1
+ExeStack:
+[]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[v = 32 ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[v = 32 ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Id: 2
+ExeStack:
+[]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[int v; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[int v ; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[int v ; RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[RefType a; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[RefType a ; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[RefType a ; v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[v = 10; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[v = 10 ; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[v = 10 ; new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=0}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[new(a, 22); fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[new(a, 22) ; fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[new(a, 22) ; fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(0, int), v=10}
+Heap:
+{}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))); Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))) ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[fork(wH(a, 30); v = 32; Print(v); Print(readHeap(a))) ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[wH(a, 30); v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[wH(a, 30); v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[wH(a, 30) ; v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[wH(a, 30) ; v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=22}
+Out:
+[]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[v = 32; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10]
+FileTable:
+{}
+Id: 3
+ExeStack:
+[]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[v = 32 ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[v = 32 ; Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=10}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(v); Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(v) ; Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[Print(readHeap(a))]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Id: 4
+ExeStack:
+[]
+SymTable:
+{a=Ref(1, int), v=32}
+Heap:
+{1=30}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
